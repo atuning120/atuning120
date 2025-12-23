@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi visitor, I'm KasRoudra!</h1>
+<p align="center">
+<a href="https://kasroudra.github.io/" target="_blank"><img align="center" src="https://github.com/KasRoudra/kasroudra.github.io/raw/main/icons/android-512x512.png" alt="KasRoudra's Portfolio" height="100" width="100"></a>
+</p>
+<h3 align="center">Formerly a student but passionate in programming</h3>
+<h2 align="center"><u>Personal Details</u></h2>
+<p align="center">
 
-<!--
-**atuning120/atuning120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
+ 
+ - My hobby is reading books, listening music, playing games.
 
-Here are some ideas to get you started:
+ - Sometimes, I write small poems, stories too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I make ringtones, fake screenshots, memes, meme templates in my leisure time.
+ 
+ - I love to collect apps, games, movies, songs, fonts, iso etc.
+
+ - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
