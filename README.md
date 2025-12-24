@@ -40,9 +40,30 @@ Soy una persona proactiva y orientada al aprendizaje continuo, con experiencia t
 ¿Buscas un desarrollador comprometido con la escalabilidad y el análisis técnico?
 ¡Hablemos sobre cómo puedo aportar a tu equipo!
 
-* 📧 **Email:** [cristian.ignacio.nunez@gmail.com](mailto:cristian.ignacio.nunez@gmail.com)
-* 💼 **LinkedIn:** [cristian-nunez-nunez](https://www.linkedin.com/in/cristian-nunez-nunez)
-* 📱 **WhatsApp:** [+56 9 5856 8602](https://wa.me/56958568602)
+<table>
+  <tr>
+    <th width="200">Plataforma</th>
+    <th>Información</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linkedin" height="20" style="vertical-align: middle;">&nbsp;<b>LinkedIn</b>
+    </td>
+    <td><a href="https://www.linkedin.com/in/cristian-nunez-nunez/">/cristian-nunez-nunez</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gmail" height="20" style="vertical-align: middle;">&nbsp;<b>Gmail</b>
+    </td>
+    <td><a href="mailto:cristian.ignacio.nunez@gmail.com">cristian.ignacio.nunez@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="20" style="vertical-align: middle;">&nbsp;<b>WhatsApp</b>
+    </td>
+    <td><a href="https://wa.me/56958568602">+56 9 5856 8602</a></td>
+  </tr>
+</table>
 
 ---
 *Hecho con enfoque en la resolución de problemas y el pensamiento crítico.*
