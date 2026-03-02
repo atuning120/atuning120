@@ -9,7 +9,7 @@ Estudiante de Ingeniería Civil en Computación e Informática enfocado en el De
 Mi nombre es **Cristian Nuñez**, pero en el mundo dev me muevo como **atuning120**.
 Soy una persona proactiva y orientada al aprendizaje continuo, con experiencia técnica sólida tanto en backend como en frontend.
 
-* 🎓 **4° año** de Ingeniería Civil en Computación e Informática (UCN).
+* 🎓 **5° año** de Ingeniería Civil en Computación e Informática (UCN).
 * 🏫 **Técnico en Programación** de nivel medio.
 * 🌍 **Ubicación:** Coquimbo, Chile (Disponible para trabajo remoto).
 * 🗣️ **Idiomas:** Español (Nativo) e Inglés (B2).
